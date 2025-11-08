@@ -7,6 +7,6 @@ https://www.youtube.com/watch?v=_uNAQpm1aMU
 
 ![20251012_0009411](https://github.com/user-attachments/assets/ba414eb2-6708-4b65-b3c2-2c43c9981cc9)
 
-![stm32h750 pinout](https://github.com/user-attachments/assets/2b741316-2b5b-447e-b7ba-a8f2059d5282)
+![500200151-2b741316-2b5b-447e-b7ba-a8f2059d5282](https://github.com/user-attachments/assets/263e4b32-ead3-437d-8186-a941aab87ad2)
 
 ![ST7701 RGB STM32 480x480 STM32H750 LTDC + SPI 9 BIT + DMAD TFT DISPLAY 1](https://github.com/user-attachments/assets/8a236f77-0e40-4986-9c92-58c918951324)
