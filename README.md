@@ -1,6 +1,4 @@
-ST7701 RGB STM32 480x480 STM32H750 LTDC + SPI 9 BIT + DMA2D
 
-https://www.youtube.com/watch?v=_uNAQpm1aMU
 
 
 ![ST7701 RGB STM32 480x480 STM32H750 LTDC + SPI 9 BIT + DMAD](https://github.com/user-attachments/assets/3aed8ea8-f6ed-4a6f-885b-d031ba89199d)
